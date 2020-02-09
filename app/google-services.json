@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9118057923",
+    "firebase_url": "https://surveyancemobile.firebaseio.com",
+    "project_id": "surveyancemobile",
+    "storage_bucket": "surveyancemobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9118057923:android:b4ff5dbf0cd3c4e5e5a976",
+        "android_client_info": {
+          "package_name": "com.angussoftwaredev.surveyancemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9118057923-0ofhlu3fi28mudqqtoco93gmo73ldjd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angussoftwaredev.surveyancemobile",
+            "certificate_hash": "02446bc3c8606d9ef4352be5f07244da4bc8fcc7"
+          }
+        },
+        {
+          "client_id": "9118057923-9i4i9hrhdtgeml46gu7v44fiqqq9vjup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtdh4sAolhXB5sVecWt1Chs3cApThIVkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9118057923-9i4i9hrhdtgeml46gu7v44fiqqq9vjup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
